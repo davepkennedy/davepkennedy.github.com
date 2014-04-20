@@ -1,4 +1,4 @@
 name: davepkennedy.github.io
 pygments: true
 markdown: kramdown
-baseurl: davepkennedy.github.io
+baseurl: http://davepkennedy.github.io
