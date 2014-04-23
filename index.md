@@ -5,7 +5,7 @@ subsection: Hello
 ---
 Hacker, coder, architect, thinker, doer.
 
-### Stuffs
+### Things I have previously written down
 
 <ul class="posts">
 {% for post in site.posts %}
