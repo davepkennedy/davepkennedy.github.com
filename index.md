@@ -3,7 +3,7 @@ layout: default
 title: davepkennedy
 subsection: Hello
 ---
-I should probably fill this thing in…
+Hacker, coder, architect, thinker, doer.
 
 ### Stuffs
 
