@@ -4,10 +4,14 @@ title: reading list
 ---
 ## Distributed Systems
 <a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft Concensus Algorithm</a><br>
+<a href="http://thesecretlivesofdata.com/raft/">Animated Raft explanation</a><br>
 <a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf">Part Time Parliament</a><br>
 <a href="http://www.ctlab.org/documents/How%20Complex%20Systems%20Fail.pdf">How Complex Systems Fail</a><br>
 <a href="http://www.inf.usi.ch/faculty/pedone/MScThesis/marco.pdf">Paxos Made Code</a><br>
 <a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/reconfiguration-tutorial.pdf">Reconfiguring a State Machine</a><br>
+<a href="http://www.sysnet.ucsd.edu/sysnet/miscpapers/mencius-osdi.pdf">Mencius: Building Efficient Replicated State Machines for WANs</a><br>
+<a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You can't sacrifice partition tolerance</a><br>
+<a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on distributed systems for young bloods</a><br>
 
 ## Messaging
 <a href="http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf">Your coffee shop doesn't use 2 phase commit</a><br>
