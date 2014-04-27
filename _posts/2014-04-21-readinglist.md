@@ -18,7 +18,7 @@ title: reading list
 <a href="http://www.cidrdb.org/cidr2005/papers/P12.pdf">Data on the Outside versus Data on the Inside</a><br>
 <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Architectural Styles and the Design of Network-based Software Architectures</a><br>
 
-# Software Design
+## Software Design
 <a href="https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf">On the criteria to be used in decomposing systems into modules</a><br>
 
 ## Scala
