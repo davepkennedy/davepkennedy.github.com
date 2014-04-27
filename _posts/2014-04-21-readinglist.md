@@ -12,6 +12,13 @@ title: reading list
 <a href="http://www.sysnet.ucsd.edu/sysnet/miscpapers/mencius-osdi.pdf">Mencius: Building Efficient Replicated State Machines for WANs</a><br>
 <a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You can't sacrifice partition tolerance</a><br>
 <a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on distributed systems for young bloods</a><br>
+<a href="http://www.bailis.org/papers/hat-vldb2014.pdf">Highly available transactions</a><br>
+<a href="http://pagesperso-systeme.lip6.fr/Marc.Shapiro/papers/RR-6956.pdf">CRDTs: Consistency without concurrency control</a><br>
+<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf">The Chubby lock service for loosely-coupled distributed systems</a><br>
+<a href="http://research.google.com/pubs/pub36356.html">Dapper, a Large-Scale Distributed Systems Tracing Infrastructure</a><br>
+<a href="http://research.google.com/pubs/pub41684.html">Omega: flexible, scalable schedulers for large compute clusters</a><br>
+<a href="http://kowshik.github.io/JPregel/pregel_paper.pdf">Pregel: A System for Large-Scale Graph Processing</a><br>
+<a href="http://www.rgoarchitects.com/Files/fallacies.pdf">Fallacies of Distributed Computing Explained</a><br>
 
 ## Messaging
 <a href="http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf">Your coffee shop doesn't use 2 phase commit</a><br>
