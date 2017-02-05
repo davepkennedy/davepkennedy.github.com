@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reading list
+title: A history of features in Java
 ---
 ## Java 8
 
